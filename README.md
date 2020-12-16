@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi !
 
-<!--
-**sapphonie/sapphonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I typically go by stephanie, [but not always](https://morethanone.info).
 
-Here are some ideas to get you started:
+### My actively maintained projects include:
+- [StAC](https://github.com/sapphonie/StAC-tf2) - AntiCheat plugin for Team Fortress 2 (TF2)
+- [HideCloakedSpies](https://github.com/sapphonie/hidecloakedspies-tf2) - Properly hides "invisible" players from cheating clients in TF2
+- [My Discord theme](https://github.com/sapphonie/discordCSS) - Custom discord theme for [Powercord](https://powercord.dev)
+- [SoapDM](https://github.com/sapphonie/SOAP-TF2DM) - Deathmatch mod for TF2 - Originally by Lange VanCamp
+- [MGEMod](https://github.com/sapphonie/MGEMod) - 1v1 mod for TF2 - Originally by Lange VanCamp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My unmaintained projects include:
+- Everything else on my GitHub.
+
+Reach me at https://sappho.io/contact
+
+
+My pronouns are fae/she/they/xe.
+
+Thanks!
