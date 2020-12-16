@@ -12,9 +12,6 @@
 ### My unmaintained projects include:
 - Everything else on my GitHub.
 
-Reach me at https://sappho.io/contact
-
-
-My pronouns are fae/she/they/xe.
+You can reach me at https://sappho.io/contact, and my pronouns are fae/faer, she/her, they/them, and xe/xer.
 
 Thanks!
