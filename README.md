@@ -10,7 +10,7 @@
 - [MGEMod](https://github.com/sapphonie/MGEMod) - 1v1 mod for TF2 - Originally by Lange VanCamp
 
 ### My unmaintained projects include:
-- Everything else on my GitHub.
+- Everything else on my GitHub. Most of the recent stuff here still works though!
 
 You can reach me at https://sappho.io/contact, and my pronouns are fae/faer, she/her, they/them, and xe/xer.
 
